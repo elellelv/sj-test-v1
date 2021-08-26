@@ -1,5 +1,6 @@
 __pycache__/
 *.py[cod]
+*~
 
 .Python
 venv/
@@ -9,3 +10,4 @@ db.sqlite3
 
 .vscode/
 local_settings.py
+/static
